@@ -1,0 +1,8 @@
+{
+  "name": "XY NFT #1",
+  "description": "Shanghai Xiyin Information Technology Co., Ltd.This is Xiyin first NFT",
+  "image": "https://raw.githubusercontent.com/monstersquad227/devflow-web/develop/src/assets/dashboard.png",
+  "attributes": [
+    { "trait_type": "Level", "value": 1 }
+  ]
+}
