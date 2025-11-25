@@ -1,0 +1,8 @@
+{
+  "name": "Shanghai Xiyin Information Technology Co. NFT",
+  "description": "Shanghai Xiyin Information Technology Co., Ltd.This is Xiyin seconed NFT",
+  "image": "https://raw.githubusercontent.com/monstersquad227/devflow-web/develop/src/assets/backgroud.jpg",
+  "attributes": [
+    { "trait_type": "Level", "value": 1 }
+  ]
+}
